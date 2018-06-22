@@ -1,0 +1,42 @@
+[submodule "armory"]
+	path = armory
+	url = https://github.com/armory3d/armory.git
+[submodule "iron"]
+	path = iron
+	url = https://github.com/armory3d/iron.git
+[submodule "armory_examples"]
+	path = armory_examples
+	url = https://github.com/armory3d/armory_examples.git
+[submodule "armory_tutorials"]
+	path = armory_tutorials
+	url = https://github.com/armory3d/armory_tutorials.git
+[submodule "armory_docs"]
+	path = armory_docs
+	url = https://github.com/armory3d/armory_docs.git
+[submodule "iron_docs"]
+	path = iron_docs
+	url = https://github.com/armory3d/iron_docs.git
+[submodule "Kha"]
+	path = Kha
+	url = https://github.com/Kode/Kha.git
+[submodule "Krom"]
+	path = Krom
+	url = https://github.com/armory3d/Krom_bin.git
+[submodule "lib/armory_tools"]
+	path = lib/armory_tools
+	url = https://github.com/armory3d/armory_tools
+[submodule "lib/haxebullet"]
+	path = lib/haxebullet
+	url = https://github.com/armory3d/haxebullet
+[submodule "lib/zui"]
+	path = lib/zui
+	url = https://github.com/armory3d/zui
+[submodule "lib/iron_format"]
+	path = lib/iron_format
+	url = https://github.com/armory3d/iron_format
+[submodule "lib/hscript"]
+	path = lib/hscript
+	url = https://github.com/armory3d/hscript
+[submodule "lib/haxerecast"]
+	path = lib/haxerecast
+	url = https://github.com/armory3d/haxerecast
